@@ -15,7 +15,7 @@ import java.lang.reflect.Method;
 /**
  * @see https://github.com/ttddyy/datasource-proxy-examples/blob/master/springboot-autoconfig-example/src/main/java/net/ttddyy/dsproxy/example/DatasourceProxyBeanPostProcessor.java
  */
-@Component
+//@Component
 public class DatasourceProxyBeanPostProcessor implements BeanPostProcessor {
 
     @Override
